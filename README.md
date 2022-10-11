@@ -17,7 +17,7 @@ During the development of the given code, when it sees an illogical or inappropr
 
 ## How To Use
 
-##License
+## License
 
 
 MIT License
@@ -25,7 +25,7 @@ MIT License
 Copyright (c) [2022] [Nimet Kurnaz, Daniel Thorp, Mehdi Dahamna, Peter Bou-Farah, Kyle Labelle]
 
 
-##Authors Info
+## Authors Info
 
 - [Nimet Kurnaz](https://github.com/Nimetkurnaz) 300295474
 - [Daniel Thorp](https://github.com/arcanistzed) 300295868
